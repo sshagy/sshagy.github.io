@@ -1,2 +1,4 @@
 # sshagy.github.io
-My blogy
+My blogic
+
+See https://pages.github.com/
