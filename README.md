@@ -4,6 +4,7 @@ See [https://pages.github.com/](https://pages.github.com/) and [https://sshagy.g
 
 2019
 - [«Лаборатория Касперского» представила систему борьбы с дронами](https://hightech.fm/2019/10/22/kas-lab-dron)
+- [Начало работы с pytest (шпаргалка по ключам), 2019](https://habr.com/ru/post/448782/)
 
 2020
 - [Skeleton of the Django project](https://github.com/ShudelEV/django_project_skeleton/blob/master/entrypoint.sh)
