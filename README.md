@@ -23,3 +23,8 @@ See [https://pages.github.com/](https://pages.github.com/) and [https://sshagy.g
 
 
 See [other page](other.md)
+
+Stats:
+
+<img align="center" src="https://github-readme-stats-nu-henna.vercel.app/api?username=sshagy&count_private=true&show_icons=true&theme=tokyonight" alt="Sshagy Stats" />
+<img align="center" src="https://github-readme-stats-nu-henna.vercel.app/api/top-langs/?username=sshagy&layout=demo&theme=tokyonight&count_private=true&langs_count=10&hide=css,html,jupyter%20notebook,tex" />
